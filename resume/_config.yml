@@ -1,0 +1,35 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+#relative_permalinks: true
+
+# Setup
+title:            Summary
+tagline:          'A Jekyll theme'
+description:      'Shogo MATSUNO'
+url:              http://lyre.github.io/
+baseurl:          /
+
+author:
+  name:           'Lyre'
+  github:		  hoge
+  twitter:		  hoge
+  url:            https://twitter.com/mdo
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0.1
+
+github:
+  repo:           https://github.com/poole/hyde
+
+plugins:
+  - jekyll-gist
+  
+gem:
+  - jekyll-paginate
+  - jekyll-feed
