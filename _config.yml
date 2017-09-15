@@ -11,13 +11,13 @@ title:            Summary
 tagline:          'A Jekyll theme'
 description:      'Shogo MATSUNO'
 url:              http://lyre.github.io/
-baseurl:          /
+baseurl:          ""
 
 author:
   name:           'Lyre'
   github:		  hoge
   twitter:		  hoge
-  url:            https://twitter.com/mdo
+  url:            https://lyre.github.io/
 
 paginate:         5
 
