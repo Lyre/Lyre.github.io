@@ -120,12 +120,12 @@ ul, ol, dl {
   margin-bottom: 1rem;
 }
 /* Authorship */
-li.authore:before {
+li.aute:before {
   content: "Shogo Matsuno";
   text-decoration: underline;
   font-weight: bold;
 }
-li.authorj:after {
+li.autj:after {
   content: "松野省吾";
   text-decoration: underline;
   font-weight: bold;
