@@ -124,7 +124,7 @@ li.aute {
   text-decoration: underline;
   font-weight: bold;
 }
-li.aute:before {
+li.aute::before {
   content: "Shogo Matsuno";
 }
 li.autj {
@@ -134,7 +134,7 @@ li.autj {
 li.autj:after {
   content: "松野省吾";
 }
-li.jap:after {
+li.jap::after {
   content: "(in Japanese)";
   display: inline;
 }
