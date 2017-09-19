@@ -119,14 +119,6 @@ ul, ol, dl {
   margin-top: 0;
   margin-bottom: 1rem;
 }
-
-dt {
-  font-weight: bold;
-}
-dd {
-  margin-bottom: .5rem;
-}
-
 /* Authorship */
 li.authorE:before {
   content: "Shogo Matsuno";
@@ -145,6 +137,13 @@ li.jap:after {
 li.app:after {
   content: "(to appear)";
   display:inline;
+}
+
+dt {
+  font-weight: bold;
+}
+dd {
+  margin-bottom: .5rem;
 }
 
 /* Misc */
