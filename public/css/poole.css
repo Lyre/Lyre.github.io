@@ -134,7 +134,7 @@ li.authorE {
 }
 li.authorE:after {
   content: "Shogo Matsuno"
-  display:inline;
+
 }
 li.authorJ {
   text-decoration: underline;
