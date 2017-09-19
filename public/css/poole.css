@@ -109,25 +109,25 @@ p {
   margin-bottom: 1rem;
 }
 /* Authorship */
-.aute {
+p.aute {
   text-decoration: underline;
   font-weight: bold;
 }
-.aute::before {
+p.aute::before {
   content: "Shogo Matsuno";
 }
-.autj {
+p.autj {
   text-decoration: underline;
   font-weight: bold;
 }
-.autj:after {
+p.autj:after {
   content: "松野省吾";
 }
-.jap::after {
+p.jap::after {
   content: "(in Japanese)";
   display: inline;
 }
-.app:after {
+p.app:after {
   content: "(to appear)";
   display: inline;
 }
