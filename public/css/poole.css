@@ -109,12 +109,9 @@ p {
   margin-bottom: 1rem;
 }
 /* Authorship */
-p.aute {
+.aute {
   text-decoration: underline;
   font-weight: bold;
-}
-p.aute::before {
-  content: "Shogo Matsuno";
 }
 p.autj {
   text-decoration: underline;
