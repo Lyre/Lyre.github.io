@@ -113,16 +113,6 @@ strong {
   color: #303030;
 }
 
-/* Author Stress*/
-.author {
-  text-decoration: underline;
-  font-weight: bold;
-}
-.author:after{
-  content: "Shogo Matsuno";
-}
-
-
 /* Lists */
 ul, ol, dl {
   margin-top: 0;
