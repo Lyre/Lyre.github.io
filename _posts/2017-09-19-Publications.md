@@ -4,9 +4,10 @@ title: Publications
 ---
 
 ### Book Chapters
-1. Kiyohiko Abe, Hironobu Sato, <div class="author">Shogo Matsuno</div>, Shoichi Ohi, Minoru Ohyama: "Communication-Aid System Using Eye-Gaze and Blink Information", in Book: Kawulok Michal, Celebi M. Emre, Smolka Bogdan (Eds.), "Advances in Face Detenction and Facial Image Analysis", Springer, pp. 333-357, 2016
-2. Shogo Matsuno, Minoru Ohyama, Kiyohiko Abe, Shoichi Ohi, Naoaki Itakura: "Differentiating Conscious and Unconscious Eyeblinks for Development of Eyeblink Computer Input System", in Book: Achim Ebert, Shah Rukh Humayoun, Norbert Seyff, Anna Perini, Simone D.J. Barbosa (Eds.), "Usability- and Accessiblity- Focused Requirements Engineering", Springer, pp.160-174, 2016
-
+<ol>
+	<li>Kiyohiko Abe, Hironobu Sato, <div class="author">Shogo Matsuno</div>, Shoichi Ohi, Minoru Ohyama: "Communication-Aid System Using Eye-Gaze and Blink Information", in Book: Kawulok Michal, Celebi M. Emre, Smolka Bogdan (Eds.), "Advances in Face Detenction and Facial Image Analysis", Springer, pp. 333-357, 2016</li>
+	<li>Shogo Matsuno, Minoru Ohyama, Kiyohiko Abe, Shoichi Ohi, Naoaki Itakura: "Differentiating Conscious and Unconscious Eyeblinks for Development of Eyeblink Computer Input System", in Book: Achim Ebert, Shah Rukh Humayoun, Norbert Seyff, Anna Perini, Simone D.J. Barbosa (Eds.), "Usability- and Accessiblity- Focused Requirements Engineering", Springer, pp.160-174, 2016
+<ol>
 ### Jornal Papers
 1. Kota Akehi, Shogo Matsuno, Naoaki Itakura, Tota Mizuno, Kazuyuki Mito: "Non-contact Eye-Glance Input Interface Using Video Camera", Journal of Signal Processing, vol. 21, no. 4, pp. 207-210, 2017
 2. Shogo Matsuno, Minoru Ohyama, Kiyohiko Abe, Shoichi Ohi, Naoaki Itakura: "Feature Analysis Focused on Temporal Alteration of the Eyeblink Waveform Using Image Analysis", IEEJ Transactions on Electronics, Information and Systems (C), vol. 137, no. 4, pp. 645-651, 2017
