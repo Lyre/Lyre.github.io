@@ -120,19 +120,33 @@ ul, ol, dl {
   margin-bottom: 1rem;
 }
 
-li.author {
-  text-decoration: underline;
-  font-weight: bold;
-}
-li.author:before {
-  content: "Shogo Matsuno"
-}
-
 dt {
   font-weight: bold;
 }
 dd {
   margin-bottom: .5rem;
+}
+
+/* Authorship */
+li.authorE {
+  text-decoration: underline;
+  font-weight: bold;
+}
+li.authorE:after {
+  content: "Shogo Matsuno"
+}
+li.authorJ {
+  text-decoration: underline;
+  font-weight: bold;
+}
+li.authorJ:after {
+  content: "松野省吾"
+}
+li.jap:after {
+  content: "(in Japanese)"
+}
+li.app:after {
+  content: "(to appear)"
 }
 
 /* Misc */
