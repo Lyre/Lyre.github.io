@@ -8,6 +8,7 @@ title: Publications
 	<li>Kiyohiko Abe, Hironobu Sato,<span class="authorE"> </span>, Shoichi Ohi, Minoru Ohyama: "Communication-Aid System Using Eye-Gaze and Blink Information", in Book: Kawulok Michal, Celebi M. Emre, Smolka Bogdan (Eds.), "Advances in Face Detenction and Facial Image Analysis", Springer, pp. 333-357, 2016</li>
 	<li><span class="authorE"> </span>, Minoru Ohyama, Kiyohiko Abe, Shoichi Ohi, Naoaki Itakura: "Differentiating Conscious and Unconscious Eyeblinks for Development of Eyeblink Computer Input System", in Book: Achim Ebert, Shah Rukh Humayoun, Norbert Seyff, Anna Perini, Simone D.J. Barbosa (Eds.), "Usability- and Accessiblity- Focused Requirements Engineering", Springer, pp.160-174, 2016</li>
 </ol>
+
 ### Jornal Papers
 <ol>
 	<li>Kota Akehi,<span class="authorE"> </span>, Naoaki Itakura, Tota Mizuno, Kazuyuki Mito: "Non-contact Eye-Glance Input Interface Using Video Camera", Journal of Signal Processing, vol. 21, no. 4, pp. 207-210, 2017</li>
@@ -21,6 +22,7 @@ title: Publications
 	<li>阿部清彦, 佐藤寛修,<span class="authorJ"> </span>, 大井尚一, 大山実: "高速度カメラによる瞬目種類識別のための特徴パラメータの計測", 電気学会論文誌C, vol. 134, no. 10, pp. 1584-1585, 2014<span class="jap"> </span></li>
 	<li>阿部清彦, 佐藤寛修,<span class="authorJ"></span>, 大井尚一, 大山実: "ハイビジョン画像を用いたフレーム分割法による瞬目種類の識別", 電気学会論文誌C, vol. 133, no. 7, pp. 1293-1300, 2013<span class="jap"> </span></li>
 </ol>
+
 ### International Conferences
 TBA
 
