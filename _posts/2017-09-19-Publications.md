@@ -5,13 +5,13 @@ title: Publications
 
 ### Book Chapters
 <ol>
-<li>Kiyohiko Abe, Hironobu Sato,<div class="aute">tte</div>, Shoichi Ohi, Minoru Ohyama: "Communication-Aid System Using Eye-Gaze and Blink Information", in Book: Kawulok Michal, Celebi M. Emre, Smolka Bogdan (Eds.), "Advances in Face Detenction and Facial Image Analysis", Springer, pp. 333-357, 2016</li>
-<li><span class="aute">teete</span>, Minoru Ohyama, Kiyohiko Abe, Shoichi Ohi, Naoaki Itakura: "Differentiating Conscious and Unconscious Eyeblinks for Development of Eyeblink Computer Input System", in Book: Achim Ebert, Shah Rukh Humayoun, Norbert Seyff, Anna Perini, Simone D.J. Barbosa (Eds.), "Usability- and Accessiblity- Focused Requirements Engineering", Springer, pp.160-174, 2016</li>
+<li>Kiyohiko Abe, Hironobu Sato,<div class="aute">.</div>, Shoichi Ohi, Minoru Ohyama: "Communication-Aid System Using Eye-Gaze and Blink Information", in Book: Kawulok Michal, Celebi M. Emre, Smolka Bogdan (Eds.), "Advances in Face Detenction and Facial Image Analysis", Springer, pp. 333-357, 2016</li>
+<li><span class="aute">.</span>, Minoru Ohyama, Kiyohiko Abe, Shoichi Ohi, Naoaki Itakura: "Differentiating Conscious and Unconscious Eyeblinks for Development of Eyeblink Computer Input System", in Book: Achim Ebert, Shah Rukh Humayoun, Norbert Seyff, Anna Perini, Simone D.J. Barbosa (Eds.), "Usability- and Accessiblity- Focused Requirements Engineering", Springer, pp.160-174, 2016</li>
 </ol>
 
 ### Jornal Papers
 <ol>
-	<li>Kota Akehi,<div class="aute"> </div>, Naoaki Itakura, Tota Mizuno, Kazuyuki Mito: "Non-contact Eye-Glance Input Interface Using Video Camera", Journal of Signal Processing, vol. 21, no. 4, pp. 207-210, 2017</li>
+	<li>Kota Akehi,<div class="aute">.</div>, Naoaki Itakura, Tota Mizuno, Kazuyuki Mito: "Non-contact Eye-Glance Input Interface Using Video Camera", Journal of Signal Processing, vol. 21, no. 4, pp. 207-210, 2017</li>
 	<li><span class="aute"> </span>, Minoru Ohyama, Kiyohiko Abe, Shoichi Ohi, Naoaki Itakura: "Feature Analysis Focused on Temporal Alteration of the Eyeblink Waveform Using Image Analysis", IEEJ Transactions on Electronics, Information and Systems (C), vol. 137, no. 4, pp. 645-651, 2017</li>
 	<li><span class="autjJ"> </span>, 伊藤雄太, 明比宏太, 板倉直明, 水野統太, 水戸和幸: "斜め視線移動を用いた多選択肢入力インタフェースの開発", 電気学会論文誌C, vol. 137 , no. 4, pp. 621-627, 2017<span class="jap"> </span></li>
 	<li><span class="autjJ"> </span>, 王夢夢, 相沢彰吾, 板倉直明, 水野統太, 水戸和幸: "Transient型VEP解析手法を用いた脳波インタフェースにおける指標点灯間隔および輝度の変化を利用した多選択肢化の検討", 電気学会論文誌C, vol. 137, no. 4, pp. 616-620, 2017<span class="jap"> </span></li>

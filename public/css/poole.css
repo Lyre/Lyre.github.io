@@ -124,21 +124,21 @@ ul, ol, dl {
   text-decoration: underline;
   font-weight: bold;
 }
-li.aute::before {
+.aute::before {
   content: "Shogo Matsuno";
 }
-li.autj {
+.autj {
   text-decoration: underline;
   font-weight: bold;
 }
-li.autj:after {
+.autj:after {
   content: "松野省吾";
 }
-li.jap::after {
+.jap::after {
   content: "(in Japanese)";
   display: inline;
 }
-li.app:after {
+.app:after {
   content: "(to appear)";
   display: inline;
 }
