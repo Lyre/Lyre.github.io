@@ -113,6 +113,14 @@ strong {
   color: #303030;
 }
 
+.author {
+  text-decoration: underline;
+  font-weight: bold;
+}
+.author:before {
+  content: "Shogo Matsuno"
+}
+
 /* Lists */
 ul, ol, dl {
   margin-top: 0;

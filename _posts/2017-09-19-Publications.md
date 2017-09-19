@@ -4,7 +4,7 @@ title: Publications
 ---
 
 ### Book Chapters
-1. Kiyohiko Abe, Hironobu Sato, Shogo Matsuno, Shoichi Ohi, Minoru Ohyama: "Communication-Aid System Using Eye-Gaze and Blink Information", in Book: Kawulok Michal, Celebi M. Emre, Smolka Bogdan (Eds.), "Advances in Face Detenction and Facial Image Analysis", Springer, pp. 333-357, 2016
+1. Kiyohiko Abe, Hironobu Sato, <div class="author">Shogo Matsuno</div>, Shoichi Ohi, Minoru Ohyama: "Communication-Aid System Using Eye-Gaze and Blink Information", in Book: Kawulok Michal, Celebi M. Emre, Smolka Bogdan (Eds.), "Advances in Face Detenction and Facial Image Analysis", Springer, pp. 333-357, 2016
 2. Shogo Matsuno, Minoru Ohyama, Kiyohiko Abe, Shoichi Ohi, Naoaki Itakura: "Differentiating Conscious and Unconscious Eyeblinks for Development of Eyeblink Computer Input System", in Book: Achim Ebert, Shah Rukh Humayoun, Norbert Seyff, Anna Perini, Simone D.J. Barbosa (Eds.), "Usability- and Accessiblity- Focused Requirements Engineering", Springer, pp.160-174, 2016
 
 ### Jornal Papers
@@ -18,10 +18,9 @@ title: Publications
 8. Katsuyoshi Ozaki, Keisuke Yoshida, Shogo Matsuno, Minoru Ohyama:"Determining a Mobile Device's Indoor and Outdoor Location Considering Actual Use", Jornal of Advanced Control, Automation and Robotics (JACAR), vol. 1, no. 1, pp. 54-58, 2015
 9. 阿部清彦，佐藤寛修，松野省吾，大井尚一，大山実：”高速度カメラによる瞬目種類識別のための特徴パラメータの計測”，電気学会論文誌C，vol. 134, no. 10, pp. 1584-1585, 2014 (in japanese)
 10. 阿部清彦，佐藤寛修，松野省吾，大井尚一，大山実：”ハイビジョン画像を用いたフレーム分割法による瞬目種類の識別”，電気学会論文誌C，vol. 133, no. 7, pp. 1293-1300, 2013 (in japanese)
-### International Conferences
 
+### International Conferences
 TBA
 
 ### Domestic Conferences & Symposiums & Forums
-
 TBA
