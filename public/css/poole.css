@@ -345,7 +345,6 @@ tbody tr:nth-child(odd) th {
 }
 
 /* Author Stress*/
-.author,
 .author {
   text-decoration: underline;
   font-weight: bold;
