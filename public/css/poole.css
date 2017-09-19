@@ -120,7 +120,7 @@ ul, ol, dl {
   margin-bottom: 1rem;
 }
 /* Authorship */
-li.authorE:before {
+ol.authorE:before {
   content: "Shogo Matsuno";
   text-decoration: underline;
   font-weight: bold;
