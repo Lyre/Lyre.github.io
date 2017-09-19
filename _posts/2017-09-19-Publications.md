@@ -7,7 +7,7 @@ title: Publications
 <ol>
 	<li>Kiyohiko Abe, Hironobu Sato,<span class="authorE"> </span>, Shoichi Ohi, Minoru Ohyama: "Communication-Aid System Using Eye-Gaze and Blink Information", in Book: Kawulok Michal, Celebi M. Emre, Smolka Bogdan (Eds.), "Advances in Face Detenction and Facial Image Analysis", Springer, pp. 333-357, 2016</li>
 	<li><span class="authorE"> </span>, Minoru Ohyama, Kiyohiko Abe, Shoichi Ohi, Naoaki Itakura: "Differentiating Conscious and Unconscious Eyeblinks for Development of Eyeblink Computer Input System", in Book: Achim Ebert, Shah Rukh Humayoun, Norbert Seyff, Anna Perini, Simone D.J. Barbosa (Eds.), "Usability- and Accessiblity- Focused Requirements Engineering", Springer, pp.160-174, 2016</li>
-<ol>
+</ol>
 ### Jornal Papers
 <ol>
 	<li>Kota Akehi,<span class="authorE"> </span>, Naoaki Itakura, Tota Mizuno, Kazuyuki Mito: "Non-contact Eye-Glance Input Interface Using Video Camera", Journal of Signal Processing, vol. 21, no. 4, pp. 207-210, 2017</li>
