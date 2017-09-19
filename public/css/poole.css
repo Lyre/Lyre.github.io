@@ -120,15 +120,19 @@ ul, ol, dl {
   margin-bottom: 1rem;
 }
 /* Authorship */
+li.aute {
+  text-decoration: underline;
+  font-weight: bold;
+}
 li.aute:before {
   content: "Shogo Matsuno";
+}
+li.autj {
   text-decoration: underline;
   font-weight: bold;
 }
 li.autj:after {
   content: "松野省吾";
-  text-decoration: underline;
-  font-weight: bold;
 }
 li.jap:after {
   content: "(in Japanese)";
