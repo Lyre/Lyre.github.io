@@ -133,22 +133,22 @@ li.authorE {
   font-weight: bold;
 }
 li.authorE:after {
-  content: "Shogo Matsuno"
+  content: "Shogo Matsuno";
 }
 li.authorJ {
   text-decoration: underline;
   font-weight: bold;
 }
 li.authorJ:after {
-  content: "松野省吾"
+  content: "松野省吾";
   display:inline;
 }
 li.jap:after {
-  content: "(in Japanese)"
+  content: "(in Japanese)";
   display:inline;
 }
 li.app:after {
-  content: "(to appear)"
+  content: "(to appear)";
   display:inline;
 }
 
