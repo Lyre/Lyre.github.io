@@ -113,6 +113,15 @@ strong {
   color: #303030;
 }
 
+/* Author Stress*/
+.author {
+  text-decoration: underline;
+  font-weight: bold;
+}
+.author:after{
+  content: "Shogo Matsuno";
+}
+
 
 /* Lists */
 ul, ol, dl {
@@ -342,15 +351,6 @@ tbody tr:nth-child(odd) th {
 .page-title,
 .post-title {
   margin-top: 0;
-}
-
-/* Author Stress*/
-.author {
-  text-decoration: underline;
-  font-weight: bold;
-}
-.author:after{
-  content: "Shogo Matsuno";
 }
 
 /* Meta data line below post title */
