@@ -4,13 +4,99 @@
  <title>Summary</title>
  <link href="http://lyre.github.io//atom.xml" rel="self"/>
  <link href="http://lyre.github.io//"/>
- <updated>2017-09-15T17:08:13+09:00</updated>
+ <updated>2017-09-19T10:44:28+09:00</updated>
  <id>http://lyre.github.io/</id>
  <author>
    <name>Lyre</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Profile</title>
+   <link href="http://lyre.github.io//2017/09/15/Profile/"/>
+   <updated>2017-09-15T00:00:00+09:00</updated>
+   <id>http://lyre.github.io//2017/09/15/Profile</id>
+   <content type="html">&lt;p&gt;Shogo MATSUNO, Ph.D.&lt;/p&gt;
+
+&lt;p&gt;Positions:
+Resercher, 2017.9 -
+TUT-ASMO Advanced Motion Technology Laboratory Project,
+Department of Computer Science and Engineering,
+Toyohashi University of Technology
+F2-701-b, 1-1 Hibarigaoka, Tempaku-cho, Toyohashi, Aichi 441-8580, Japan.&lt;/p&gt;
+
+&lt;p&gt;Research Interests:
+Eye Contrall Interface, Human-Computer Interaction/Interface, Biometric Engineering, KANSEI Engineering, Cognitive Engineering, Context-Aware System, Motion&amp;amp;State Estimation, Indoor Location Estimation, and etc...&lt;/p&gt;
+
+&lt;p&gt;Educational Background:
+The University of Electro-communications, Ph.D. in Engineering (2014.4 - 2017.9)
+Tokyo Denki University, M.Sc. in Information Environment (2012.4 - 2014.3)
+Kanto Gakuin University, B.S. in Networking and Multimedia (2008.4 - 2012.3)&lt;/p&gt;
+
+&lt;p&gt;Academic History:
+Research Assistnt, The University of Electro-communiations (2017.4 - 2017.9)
+Research Fellow, The University of Electro-communications (2017.4 -2017.9)
+Visiting Scholar, Interuniversity Microelectronics Centre (IMEC), Belgium, (2016.8 - 2016.11)
+Visiting Scholar, Catholic University of Leuven (KUL), Belgium, (2016.8 - 2016.11)
+Pert-time Lecture, Kitasato University, (2015.4 - 2016.3)
+Research Fellow, The University of Electro-communications (2015.4 - 2016.9)
+Visiting Researcher, Thailand National Electronics and Computer Technology Center (NECTEC), Thailand, (2014.9 - 2014.12)
+Research Assistant, The University of Electro-communications (2014.4 - 2014.9)
+Teaching Assistant, Tokyo Denki Univeristy (2012.4 - 2014.3)
+Student Assistant, Kanto Gakuin University (2010.4 - 2012.3)&lt;/p&gt;
+
+&lt;p&gt;Grants and Scholarship:
+RVO-Society Schalarship (2016.8 - 2016.11)
+Showa-Ikeda Memorial Foundation Science Couse Scholarship (2014.9 - 2017.3)
+JASSO short-term study abroad scholarship (2014.9 - 2014.12)&lt;/p&gt;
+
+&lt;p&gt;Honors and Award:
+JASSO Exemption of Repayment for Scholarship by Excellent Works (2017)
+Funai Best Papar Award, Funai foundation (FIT2014), (2014)
+JASSO Exemption of Repayment for Scholarship by Excellent Works (2014)&lt;/p&gt;
+
+&lt;p&gt;Memberships:
+IEEE, ACM, IEICE, IPSJ, IEEJ&lt;/p&gt;
+
+&lt;p&gt;Hyde is a brazen two-column &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; theme that pairs a prominent sidebar with uncomplicated content. It&amp;#39;s based on &lt;a href=&quot;http://getpoole.com&quot;&gt;Poole&lt;/a&gt;, the Jekyll butler.&lt;/p&gt;
+
+&lt;h3&gt;Built on Poole&lt;/h3&gt;
+
+&lt;p&gt;Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by &lt;a href=&quot;https://twitter.com/mdo&quot;&gt;@mdo&lt;/a&gt;. Poole, and every theme built on it (like Hyde here) includes the following:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Complete Jekyll setup included (layouts, config, &lt;a href=&quot;/404&quot;&gt;404&lt;/a&gt;, &lt;a href=&quot;/atom.xml&quot;&gt;RSS feed&lt;/a&gt;, posts, and &lt;a href=&quot;/about&quot;&gt;example page&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Mobile friendly design and development&lt;/li&gt;
+&lt;li&gt;Easily scalable text and component sizing with &lt;code&gt;rem&lt;/code&gt; units in the CSS&lt;/li&gt;
+&lt;li&gt;Support for a wide gamut of HTML elements&lt;/li&gt;
+&lt;li&gt;Related posts (time-based, because Jekyll) below each post&lt;/li&gt;
+&lt;li&gt;Syntax highlighting, courtesy Pygments (the Python-based code snippet highlighter)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;Hyde features&lt;/h3&gt;
+
+&lt;p&gt;In addition to the features of Poole, Hyde adds the following:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Sidebar includes support for textual modules and a dynamically generated navigation with active link support&lt;/li&gt;
+&lt;li&gt;Two orientations for content and sidebar, default (left sidebar) and &lt;a href=&quot;https://github.com/poole/lanyon#reverse-layout&quot;&gt;reverse&lt;/a&gt; (right sidebar), available via &lt;code&gt;&amp;lt;body&amp;gt;&lt;/code&gt; classes&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/poole/hyde#themes&quot;&gt;Eight optional color schemes&lt;/a&gt;, available via &lt;code&gt;&amp;lt;body&amp;gt;&lt;/code&gt; classes&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/poole/hyde#readme&quot;&gt;Head to the readme&lt;/a&gt; to learn more.&lt;/p&gt;
+
+&lt;h3&gt;Browser support&lt;/h3&gt;
+
+&lt;p&gt;Hyde is by preference a forward-thinking project. In addition to the latest versions of Chrome, Safari (mobile and desktop), and Firefox, it is only compatible with Internet Explorer 9 and above.&lt;/p&gt;
+
+&lt;h3&gt;Download&lt;/h3&gt;
+
+&lt;p&gt;Hyde is developed on and hosted with GitHub. Head to the &lt;a href=&quot;https://github.com/poole/hyde&quot;&gt;GitHub repository&lt;/a&gt; for downloads, bug reports, and features requests.&lt;/p&gt;
+
+&lt;p&gt;Thanks!&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Introducing Hyde</title>
