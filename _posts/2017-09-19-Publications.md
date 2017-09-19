@@ -5,7 +5,7 @@ title: Publications
 
 ### Book Chapters
 
-<div class="author"></div>
+<div class="author">s</div>
 
 ### Jornal Papers
 
