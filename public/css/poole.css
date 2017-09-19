@@ -128,7 +128,7 @@ dd {
 }
 
 /* Authorship */
-li.authorE:after {
+li.authorE:before {
   content: "Shogo Matsuno";
   text-decoration: underline;
   font-weight: bold;
