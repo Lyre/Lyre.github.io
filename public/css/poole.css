@@ -120,23 +120,23 @@ ul, ol, dl {
   margin-bottom: 1rem;
 }
 /* Authorship */
-ol.authorE:before {
+li.authore:before {
   content: "Shogo Matsuno";
   text-decoration: underline;
   font-weight: bold;
 }
-li.authorJ:after {
+li.authorj:after {
   content: "松野省吾";
   text-decoration: underline;
   font-weight: bold;
 }
 li.jap:after {
   content: "(in Japanese)";
-  display:inline;
+  display: inline;
 }
 li.app:after {
   content: "(to appear)";
-  display:inline;
+  display: inline;
 }
 
 dt {
