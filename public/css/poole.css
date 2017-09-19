@@ -120,7 +120,7 @@ ul, ol, dl {
   margin-bottom: 1rem;
 }
 /* Authorship */
-li.aute {
+.aute {
   text-decoration: underline;
   font-weight: bold;
 }
