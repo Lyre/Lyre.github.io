@@ -25,7 +25,6 @@ title: Publications
 
 ### International Conferences
 <ol>
-	<li>Marzieh Aliabadi Farahani, <span class="aute"></span>, Kota Akehi, Kazuyuki Mito, Tota Mizuno, Naoaki Itakura: "Analysis of end-plate on conducting wave parameters by using multi-channel surface EMG". 23nd International Symposium on Artifical Life and Robotics (AROB), Beppu, Japan, January, 2017<span class="app"></span></li>
 	<li>Hironobu Sato, Kiyohiko Abe, <span class="aute"></span>, Minoru Ohyama: "Improvement of Text Input System Using Two Types of Voluntary Blinks and Eye-Gaze Information". 23nd International Symposium on Artifical Life and Robotics (AROB), Beppu, Japan, January, 2017<span class="app"></span></li>
 	<li><span class="aute"></span>, Susumu Chida, Naoaki Itakura, Tota Mizuno, Kazuyuki Mito: "A Method of Character Input under the Operating Environment with Low Degree of Freedom". 23nd International Symposium on Artifical Life and Robotics (AROB), Beppu, Japan, January, 2017<span class="app"></span></li>
 	<li>Tomoyuki Murata, Kota Akehi, <span class="aute"></span>, Kazuyuki Mito, Naoaki Itakura, Tota Mizuno: "Investigation on Estimation of Autonomic Nerve Activity of VDT Workers Using Characteristics of Facial Skin Temperature Distribution". 23nd International Symposium on Artifical Life and Robotics (AROB), Beppu, Japan, January, 2017<span class="app"></span></li>
