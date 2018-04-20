@@ -11,6 +11,8 @@ title: Publications
 
 ### Jornal Papers
 <ol>
+	<li>Yuki Oguri, <span class="aute"></span>: "Recognition of a variety of activities considering smartphone positions", International Journal of Space-Based and Situated Computing, 2018 <span class="acc"></span></li>
+	<li>Akira Tsuji, Naoaki Itakura, Tota Mizuno, <span class="aute"></span>: "Study of detection algorithm of pedestrians by image analysis with a crossing request when gazing at a pedestrian crossing signal", Journal of Information and Communication Engineering, vol. 3, no. 5, pp. 167-173, 2017</li>
 	<li>Kota Akehi, <span class="aute"></span>, Naoaki Itakura, Tota Mizuno, Kazuyuki Mito: "Non-contact Eye-Glance Input Interface Using Video Camera", Journal of Signal Processing, vol. 21, no. 4, pp. 207-210, 2017</li>
 	<li><span class="aute"></span>, Minoru Ohyama, Kiyohiko Abe, Shoichi Ohi, Naoaki Itakura: "Feature Analysis Focused on Temporal Alteration of the Eyeblink Waveform Using Image Analysis", IEEJ Transactions on Electronics, Information and Systems (C), vol. 137, no. 4, pp. 645-651, 2017</li>
 	<li><span class="autj"></span>, 伊藤雄太, 明比宏太, 板倉直明, 水野統太, 水戸和幸: "斜め視線移動を用いた多選択肢入力インタフェースの開発", 電気学会論文誌C, vol. 137 , no. 4, pp. 621-627, 2017<span class="jap"> </span></li>
@@ -18,16 +20,18 @@ title: Publications
 	<li>明比宏太, <span class="autj"></span>, 板倉直明, 水野統太, 水戸和幸: "ビデオカメラを用いた非接触な視線入力インタフェースの検討", 電気学会論文誌C, vol. 137, no. 4, pp. 628-633, 2017<span class="jap"> </span></li>
 	<li>Tota Mizuno, Takeru Sakai, Shunsuke Kawazura, Hirotoshi Asano, Kota Akehi, <span class="aute"></span>, Kazuyuki Mito, Yuichiro Kume, Naoaki Itakura: "Measuring Facial Skin Temperature Changes Caused by Mental Work-Load with Infrared Thermography", IEEJ Transactions on Electronics, Information and Systems (C), vol. 136, no. 11, pp.1581-1585, 2016</li>
 	<li>阿部清彦, 佐藤寛修, <span class="autj"></span>, 大井尚一, 大山実: "視線と随意性瞬目を用いる入力インタフェース", 電気学会論文誌C, vol. 1336, no. 8, pp. 1185-1193, 2016<span class="jap"> </span></li>
-	<li>Katsuyoshi Ozaki, Keisuke Yoshida, <span class="aute"></span>, Minoru Ohyama:"Determining a Mobile Device's Indoor and Outdoor Location Considering Actual Use", Jornal of Advanced Control, Automation and Robotics (JACAR), vol. 1, no. 1, pp. 54-58, 2015</li>
+	<li>Katsuyoshi Ozaki, Keisuke Yoshida, <span class="aute"></span>, Minoru Ohyama:"Determining a Mobile Device's Indoor and Outdoor Location Considering Actual Use", Jornal of Advanced Control, Automation and Robotics, vol. 1, no. 1, pp. 54-58, 2015</li>
 	<li>阿部清彦, 佐藤寛修, <span class="autj"></span>, 大井尚一, 大山実: "高速度カメラによる瞬目種類識別のための特徴パラメータの計測", 電気学会論文誌C, vol. 134, no. 10, pp. 1584-1585, 2014<span class="jap"> </span></li>
 	<li>阿部清彦, 佐藤寛修, <span class="autj"></span>, 大井尚一, 大山実: "ハイビジョン画像を用いたフレーム分割法による瞬目種類の識別", 電気学会論文誌C, vol. 133, no. 7, pp. 1293-1300, 2013<span class="jap"> </span></li>
 </ol>
 
 ### International Conferences
 <ol>
-	<li>Hironobu Sato, Kiyohiko Abe, <span class="aute"></span>, Minoru Ohyama: "Improvement of Text Input System Using Two Types of Voluntary Blinks and Eye-Gaze Information". 23nd International Symposium on Artifical Life and Robotics (AROB), Beppu, Japan, January, 2017<span class="app"></span></li>
-	<li><span class="aute"></span>, Susumu Chida, Naoaki Itakura, Tota Mizuno, Kazuyuki Mito: "A Method of Character Input under the Operating Environment with Low Degree of Freedom". 23nd International Symposium on Artifical Life and Robotics (AROB), Beppu, Japan, January, 2017<span class="app"></span></li>
-	<li>Tomoyuki Murata, Kota Akehi, <span class="aute"></span>, Kazuyuki Mito, Naoaki Itakura, Tota Mizuno: "Investigation on Estimation of Autonomic Nerve Activity of VDT Workers Using Characteristics of Facial Skin Temperature Distribution". 23nd International Symposium on Artifical Life and Robotics (AROB), Beppu, Japan, January, 2017<span class="app"></span></li>
+	<li><span class="aute"></span>, Masatoshi Tanaka, Keisuke Yoshida, Kota Akehi, Naoaki Itakura, Tota Mizuno, Kazuyuki Mito: "Discrimination of eye blinks and eye movements as features for image analysis of the around ocular region for use as an input interface", the 12th International Conference on Innovaticve Mobile and Internet Services in Ubiquitous Computing (IMIS), Matsue, Japan, July, 2018 <span class="app"></span></li>
+	<li>Reiji Suzumura, <span class="aute"></span>, Minoru Ohyama: "Where can we accomplish our To-Do?: estimating the target location by analyzing the task", The 32nd IEEE International Conference on Advanced Information Networking and Applications (AINA), Kracow, Poland, May, 2018 <span class="app"></span></li>
+	<li>Hironobu Sato, Kiyohiko Abe, <span class="aute"></span>, Minoru Ohyama: "Improvement of Text Input System Using Two Types of Voluntary Blinks and Eye-Gaze Information". 23nd International Symposium on Artifical Life and Robotics (AROB), Beppu, Japan, January, 2018</li>
+	<li><span class="aute"></span>, Susumu Chida, Naoaki Itakura, Tota Mizuno, Kazuyuki Mito: "A Method of Character Input under the Operating Environment with Low Degree of Freedom". 23nd International Symposium on Artifical Life and Robotics (AROB), Beppu, Japan, January, 2018</li>
+	<li>Tomoyuki Murata, Kota Akehi, <span class="aute"></span>, Kazuyuki Mito, Naoaki Itakura, Tota Mizuno: "Investigation on Estimation of Autonomic Nerve Activity of VDT Workers Using Characteristics of Facial Skin Temperature Distribution". 23nd International Symposium on Artifical Life and Robotics (AROB), Beppu, Japan, January, 2018</li>
 	<li>Akira Tsuji, Naoaki Itakura, Tota Mizuno, <span class="aute"></span>, Hiroshi Kazama, Takuma Toba: "Study of Detection Algorithm of Pedestrians by Image Analysis with a Crossing Request". The International Conference on Inteligent Informatics and Biomedical Sciences (ICIIBMS), Okinawa, Japan, 2017</li>
 	<li>Yuki Oguri, <span class="aute"></span>, Minoru Ohyama: "Activity Estimation Using Device Positions of SmartphoneUsers". The 20th International Conference on Network-Based Information Systems (NBiS), Tronto, Canada, August, 2017</li>
 	<li>Tota Mizuno, <span class="aute"></span>, Kazuyuki Mito, Naoaki Itakura, Hirotoshi Asano: "Development of a Measuring Device Skin Potential with Grasping Only", The 19th International Conference on Human-Computer Interaction (HCII), Vancouver, Canada, July, 2017</li>
