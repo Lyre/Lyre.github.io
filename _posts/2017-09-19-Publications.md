@@ -12,7 +12,7 @@ title: Publications
 ### Jornal Papers
 <ol>
 	<li><span class="aute"></span>: "Estimating autonomic nerve activity using variance of thermal face image", Artificial Life and Robotics, 2018 <span class="acc"></span></li>
-	<li>Yuki Oguri, <span class="aute"></span>: "Recognition of a variety of activities considering smartphone positions", International Journal of Space-Based and Situated Computing, 2018 <span class="acc"></span></li>
+	<li>Yuki Oguri, <span class="aute"></span>, Minoru Ohyama: "Recognition of a variety of activities considering smartphone positions", International Journal of Space-Based and Situated Computing, 2018 <span class="acc"></span></li>
 	<li>Akira Tsuji, Naoaki Itakura, Tota Mizuno, <span class="aute"></span>: "Study of detection algorithm of pedestrians by image analysis with a crossing request when gazing at a pedestrian crossing signal", Journal of Information and Communication Engineering, vol. 3, no. 5, pp. 167-173, 2017</li>
 	<li>Kota Akehi, <span class="aute"></span>, Naoaki Itakura, Tota Mizuno, Kazuyuki Mito: "Non-contact Eye-Glance Input Interface Using Video Camera", Journal of Signal Processing, vol. 21, no. 4, pp. 207-210, 2017</li>
 	<li><span class="aute"></span>, Minoru Ohyama, Kiyohiko Abe, Shoichi Ohi, Naoaki Itakura: "Feature Analysis Focused on Temporal Alteration of the Eyeblink Waveform Using Image Analysis", IEEJ Transactions on Electronics, Information and Systems (C), vol. 137, no. 4, pp. 645-651, 2017</li>
